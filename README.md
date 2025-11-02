@@ -62,10 +62,6 @@ PasswordStrengthChecker/
 │── README.md            # Project documentation
 ```
 
-## License
-
-This project has MIT License.
-
 ## Author
 
 Developed by **Göksel Özdemir**.
